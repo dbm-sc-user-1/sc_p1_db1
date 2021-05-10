@@ -1,5 +1,5 @@
-CREATE PROCEDURE SelectAllCustomers
+CREATE PROCEDURE [dbo].[SelectAllCustomers]
 AS
-SELECT * FROM Customers
+SELECT * FROM Customers --changes
 GO
 
