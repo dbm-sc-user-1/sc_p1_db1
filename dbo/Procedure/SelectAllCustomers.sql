@@ -1,5 +1,5 @@
 CREATE PROCEDURE [dbo].[SelectAllCustomers]
 AS
-SELECT * FROM Customers --Demo for Eli
+SELECT * FROM Customers -- partner demos :-)
 GO
 
