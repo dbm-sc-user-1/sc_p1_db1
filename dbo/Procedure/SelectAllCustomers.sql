@@ -1,5 +1,5 @@
 CREATE PROCEDURE [dbo].[SelectAllCustomers]
 AS
-SELECT * FROM Customers -- partner demos :-)
+SELECT * FROM Customers -- demo for CGI
 GO
 
