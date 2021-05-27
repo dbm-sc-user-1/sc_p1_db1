@@ -1,5 +1,5 @@
 CREATE PROCEDURE [dbo].[SelectAllCustomers]
 AS
-SELECT * FROM Customers -- Hot fix
+SELECT * FROM Customers -- :-)
 GO
 
