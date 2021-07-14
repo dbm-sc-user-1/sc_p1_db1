@@ -1,6 +1,6 @@
 
 CREATE PROCEDURE [dbo].[SelectAllCustomers]
 AS
-SELECT * FROM Customers -- source control dmeo 1
+SELECT * FROM Customers -- source control dmeo!
 GO
 
